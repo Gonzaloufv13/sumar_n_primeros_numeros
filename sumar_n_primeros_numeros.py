@@ -1,10 +1,4 @@
-# Sumar los n primeros números
-# Programación I - Grado en Business Analytics - UFV
-# Autor: Gonzalo Salas
-#
-# Primero el algoritmo en pseudocódigo (como comentario), después su
-# implementación en Python siguiendo la misma estructura y, al final,
-# las pruebas de ejecución con el resultado obtenido.
+
 
 '''
 Algoritmo: Sumar los n primeros números
